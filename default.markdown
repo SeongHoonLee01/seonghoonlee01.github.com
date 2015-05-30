@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+# 배드민턴 블로그
+
+* [배드민턴 뉴스](http://leechangyong.github.io/jekyll/update/2015/05/26/first-post.html)
+* [배드민턴 경기](http://leechangyong.github.io/jekyll/update/2015/05/26/third-post.html)
